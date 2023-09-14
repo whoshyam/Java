@@ -5,8 +5,8 @@
  swap two variables </br>
  user input </br>
  expressions </br>
- GUI intro </br>  
- Math class</br>   
+ GUI intro </br> 
+ Math class</br> 
  random numbers </br>
  if statements </br>
  switches </br>
@@ -21,7 +21,7 @@
  ArrayList </br>
  2D ArrayList </br>
  for-each loop </br>
-  methods </br>
+ methods </br>
  overloaded methods </br>
  printf </br>
  final keyword </br>
