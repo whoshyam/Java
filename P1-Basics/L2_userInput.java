@@ -4,7 +4,7 @@ public class L2_userInput {
 
  public static void main(String[] args) {
   
-  Scanner scanner = new Scanner(System.in);
+  Scanner scanner = new Scanner(System.in); //ye line compulsory h ek baar for taking user input
   
   System.out.println("What is your name? ");
   String name = scanner.nextLine();
