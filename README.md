@@ -1,5 +1,5 @@
 ## contents
-- P1
+- P1</br>
     variables </br>
     swap two variables </br>
     user input </br>
@@ -25,7 +25,7 @@
     printf </br>
     final keyword </br>
 
-- P2
+- P2</br>
     objects (OOP) </br>
     constructors </br>
     variable scope </br>
@@ -50,7 +50,7 @@
     FileReader (read a file) </br>
     audio </br>
 
-- P3
+- P3</br>
     GUI </br>
     labels </br>
     panels </br>
