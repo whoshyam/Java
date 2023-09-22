@@ -5,7 +5,7 @@ import java.util.Scanner;
 // Math.abs(y)
 // Math.sqrt(x)
 // Math.round(x)
-// Math.ceil(x)
+// Math.ceil(x) //like GIF
 // Math.floor(x)
 
 public class L4_mathClass {
@@ -26,8 +26,6 @@ public class L4_mathClass {
 		z = Math.sqrt((x*x)+(y*y));
 		
 		System.out.println("The hypotenuse is : "+z);
-		
-		scanner.close();
 				
 	}
 }
